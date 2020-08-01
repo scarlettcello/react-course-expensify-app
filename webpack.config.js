@@ -45,9 +45,5 @@ module.exports = (env) => {
       historyApiFallback: true,
       publicPath: '/dist/'
     }
-<<<<<<< HEAD
   };
-=======
-  }
->>>>>>> d92deac07535d1b983f6422af0132f77b2aef63a
 };
